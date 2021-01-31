@@ -8,11 +8,15 @@
 ## Contact
 
 Adem Savaş <br />
-dept. / org. <br />
+Department of Electrical and Electronics Engineering <br />
+Eskisehir Technial University <br />
 adamsvs@live.com <br />
+
 Atakan Kalkar <br />
-dept. / org. <br />
+Department of Electrical and Electronics Engineering <br />
+Eskisehir Technial University <br />
 atakankalkar@gmail.com <br />
+
 İsmail San <br />
 Department of Electrical and Electronics Engineering <br />
 Eskisehir Technial University <br />
