@@ -9,10 +9,10 @@
 
 Adem Savaş <br />
 dept. / org. <br />
-eposta@... <br />
+adamsvs@live.com <br />
 Atakan Kalkar <br />
 dept. / org. <br />
-eposta@... <br />
+atakankalkar@gmail.com <br />
 İsmail San <br />
 Department of Electrical and Electronics Engineering <br />
 Eskisehir Technial University <br />
